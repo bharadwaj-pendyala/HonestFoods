@@ -10,8 +10,9 @@ Kindly Naviagate to src/main/resources/testsettings.properties file for test dat
 - testng_test.xml is the entry point of execution
 - TestBase has browser and run definitions. Used WebDriver Manager to overcome issues with conifguration of browser config related ambiguities
 
-### Extended Implementations possible:
-
+### Extended Implementations possible
+(Could be configured and ignored for now due to time constraints):
+    
     Reporting Schema.
     Data Providers.
     Configuring a pipeline and post build email trigger for getting automated updates over quality of the build.
