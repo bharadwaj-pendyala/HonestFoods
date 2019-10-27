@@ -8,7 +8,7 @@ Kindly Naviagate to src/main/resources/testsettings.properties file for test dat
 - src/main/java - contains source code related to element locators and feature interactions.
 - src/test/java - contains tests with pre and post conditions defined using TestNG annotations
 - testng_test.xml is the entry point of execution
-- TestBase has browser and run definitions. Used WebDriver Manager to overcome issues with conifguration of browser config related ambiguities
+- TestBase has browser and run definitions. Used [WebDriver Manager](https://github.com/bonigarcia/webdrivermanager) to overcome issues with conifguration of browser config related ambiguities
 
 ### Extended Implementations possible
 (Could be configured and ignored for now due to time constraints):
